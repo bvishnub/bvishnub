@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="hi.gif" alt="hi" width="30" height="30"/> , I'm Vishnu B</h1>
 
 <p align="center">
-As an aspiring data scientist, I am passionate about uncovering hidden patterns within data. My curiosity drives me to explore and analyze raw data, transforming it into meaningful insights. By applying my analytical skills, I aim to solve complex problems and support informed decision-making.
+As an aspiring data science enthusiast, I am passionate about uncovering hidden patterns within data. My curiosity drives me to explore and analyze raw data, transforming it into meaningful insights. By applying my analytical skills, I aim to solve complex problems and support informed decision-making.
 </p>
 
 <p align="left">
