@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="hi.gif" alt="hi" width="30" height="30"/> , I'm Vishnu B</h1>
 
 <p align="center">
-As an aspiring data science enthusiast, I am passionate about uncovering hidden patterns within data. My curiosity drives me to explore and analyze raw data, transforming it into meaningful insights. By applying my analytical skills, I aim to solve complex problems and support informed decision-making.
+As an aspiring data scientist, I am passionate about uncovering insights from complex datasets. Leveraging Machine Learning techniques, I aim to transform raw data into actionable insights, solve challenging problems, and drive data-driven decisions. My goal is to harness data science to develop innovative solutions and optimize performance across industries.
 </p>
 
 <p align="left">
@@ -10,13 +10,13 @@ As an aspiring data science enthusiast, I am passionate about uncovering hidden 
 
 <br />
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I am learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/bvishnub?tab=repositories)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@vishnub195)
 
-- 💬 Ask me about **Python, SQL, Power BI, Tableau, MS-Excel**
+- 💬 Ask me about **Python, SQL, Power BI, Tableau, MS-Excel, Machine Learning**
 
 <br />
 
@@ -67,11 +67,10 @@ As an aspiring data science enthusiast, I am passionate about uncovering hidden 
   </a>
   <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> 
     <img src="https://logos-download.com/wp-content/uploads/2020/06/Microsoft_Office_Excel_2013_Logo.png" alt="Excel" width="50" height="50"/> 
+  
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="50" height="50"/>
   </a>
 </p>
 
 <br />
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bvishnub" alt="bvishnub" />
-</p>
